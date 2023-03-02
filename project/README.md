@@ -111,7 +111,7 @@ A `README.md` file will make it show up as your repository's README file on Gith
 
 ### Preparing For Your Presentation
 
-- Presentation Start Time: 3:30pm (arrive just before)
+- Presentation Start Time: 2pm (day 2) (arrive just before)
 - Presentation Duration: 10 minutes each group (7 minute presentation, 3 minutes for questions)
 
 What we would love to see is for each team member to pick a part of the project that they've worked on, that they are feel pleased with, and to spend roughly a minute speaking through how their code works.
