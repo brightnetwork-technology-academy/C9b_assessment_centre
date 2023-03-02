@@ -8,7 +8,7 @@ Challenges such as this one are created to help improve your coding ability and 
 
 **To complete this challenge, you need a basic understanding of HTML and CSS.**
 
-There is an extension task which requires the use of JavaScript.
+There is an (optional) extension task which requires the use of JavaScript.
 
 
 
